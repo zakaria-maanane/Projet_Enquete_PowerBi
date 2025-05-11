@@ -1,6 +1,8 @@
-# Analyse des Données sur les Victimes de Crimes
+# Analyse des Données sur les Victimes de Crimes  
 
-Ce notebook présente une analyse exploratoire des données relatives aux victimes de crimes. L'objectif principal est de comprendre les caractéristiques démographiques et les circonstances entourant ces événements tragiques.
+Ce notebook présente une analyse exploratoire des données relatives aux victimes de crimes. L'objectif principal est de comprendre les caractéristiques démographiques et les circonstances entourant ces événements tragiques. En collaboration avec mes amis : Sewa Fumey et Alexandre Chevalier
+Lien du POWER POINT ( format PDF ) : [Projet Alexandre Sewa Zakaria.pdf](https://github.com/user-attachments/files/20151522/Projet.Alexandre.Sewa.Zakaria.pdf)
+
 
 ## Résumé des Étapes Clés
 
@@ -22,4 +24,4 @@ Ce notebook présente une analyse exploratoire des données relatives aux victim
 
 ## Présentation
 
-Ce notebook offre une vue d'ensemble des données sur les victimes de crimes, en mettant en lumière les tendances clés et les caractéristiques importantes. Les visualisations graphiques facilitent la compréhension des relations entre différentes variables, telles que l'âge, le genre et le lieu de décès des victimes. L'analyse aboutit à l'identification du profil type de la victime, ce qui peut être crucial pour orienter les efforts de prévention et de soutien aux communautés affectées.
+Ce notebook offre une vue d'ensemble des données sur les victimes de crimes, en mettant en lumière les tendances clés et les caractéristiques importantes. Les visualisations graphiques facilitent la compréhension des relations entre différentes variables, telles que l'âge, le genre et le lieu de décès des victimes. L'analyse aboutit à l'identification du profil type de la victime, ce qui peut être crucial pour orienter les efforts de prévention et de soutien aux communautés affectées
